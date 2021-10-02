@@ -1,7 +1,7 @@
 Read it first carefully:
 https://drive.google.com/file/d/137xABaz3GZuG4yJUMrJDVRt7sqU6xubH/view?usp=sharing
 
-Then Go to this link:
+Then Go to this link and Try to solve, code and submit:
 
 https://www.hackerrank.com/domains/c
 

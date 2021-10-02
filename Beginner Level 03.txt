@@ -1,6 +1,6 @@
-Go to this link:
+Go to this link and Try to solve, code and submit:
 
 https://codeforces.com/problemset?order=BY_SOLVED_DESC
 
 
-Note: Try to solve as much as problems. at least 50 problems or, more
+Note: Try to solve as much as problems. at least 50 problems or, more [Problem Category: A and B only for now]
