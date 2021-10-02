@@ -7,13 +7,13 @@ After that, check the "Beginner Level 02.txt" file. Then, "Beginner Level 03.txt
 
 Some Good Online Judges to Practice and Compete for all:
 
- 1. htttps://www.codeforces.com
- 2. htttps://www.codechef.com
- 3. htttps://www.atcoder.jp
- 4. htttps://www.leetcode.com
- 5. htttps://www.lightoj.com
- 6. htttps://www.spoj.com
- 7. htttps://www.hackerearth.com
+ 1. https://www.codeforces.com
+ 2. https://www.codechef.com
+ 3. https://www.atcoder.jp
+ 4. https://www.leetcode.com
+ 5. https://www.lightoj.com
+ 6. https://www.spoj.com
+ 7. https://www.hackerearth.com
 
 Note: If you are unable to code at the beginning level of a problem, see others' code. So, google it. But first try your best.
 
