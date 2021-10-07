@@ -18,7 +18,7 @@ Some Good Online Judges to Practice and Compete for all:
 Note: If you are unable to code at the beginning level of a problem, see others' code. So, google it. But first try your best.
 
 Now most important thing is "Time Complexity":
-If you know how to code, then you must how to calculate the time complexity of a code. So, check the "Big O Notation.txt" file. Whenever you code for a problem, you have to calculate the time complexity. It is one of the best ways to practice it.
+If you know how to code, then you must know how to calculate the time complexity of a code. So, check the "Big O Notation.txt" file. Whenever you code for a problem, you have to calculate the time complexity. It is one of the best ways to practice it.
 
 Next one thing is "Space Complexity".
 
