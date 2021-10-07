@@ -22,4 +22,6 @@ If you know how to code, then you must know how to calculate the time complexity
 
 Next one thing is "Space Complexity".
 
+For Math Idea & Technique: You can check and read the "Math.pdf" file. Here, you can learn some math tricks. 
+
 -------In Sha Allah-------
