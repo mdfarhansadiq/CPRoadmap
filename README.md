@@ -25,8 +25,8 @@ After that, check the "Beginner Level 02.txt" file. Then, "Beginner Level 03.txt
 > If you know how to code, then you must know how to calculate the time complexity of a code. So, check the "Big O Notation.txt" file. Whenever you code for a problem, you have to calculate the time complexity. It is one of the best ways to practice it.
 
 ## Next one thing is "Space Complexity".
-> It is the calculation of memory usage of code
+> It is the calculation of memory usage of code.
 
-###### For Math Idea & Technique:** You can check and read the "Math.pdf" file. Here, you can learn some math tricks. 
+## > For Math Idea & Technique: You can check and read the "Math.pdf" file. Here, you can learn some math tricks. 
 
 -------In Sha Allah-------
