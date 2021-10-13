@@ -5,7 +5,7 @@ When you check the repository, you may not see some files. So, my suggestion is 
 First if you are completely beginner in programming, check the "Beginner Level 01.txt" file.
 After that, check the "Beginner Level 02.txt" file. Then, "Beginner Level 03.txt". After completing the 3 steps, read and follow the instructions of "Competitive_Programming_Guide.pdf".
 
-> Resource List: You can check "CP_List.xlsx" file.
+> ##Resource List: You can check "CP_List.xlsx" file.
 
 > Some Good Online Judges to Practice and Compete for all:
 
