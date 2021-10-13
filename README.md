@@ -27,6 +27,7 @@ After that, check the "Beginner Level 02.txt" file. Then, "Beginner Level 03.txt
 ## Next one thing is "Space Complexity".
 > It is the calculation of memory usage of code.
 
-## > For Math Idea & Technique: You can check and read the "Math.pdf" file. Here, you can learn some math tricks. 
+## For Math Idea & Technique: 
+> You can check and read the "Math.pdf" file. Here, you can learn some math tricks. 
 
 -------In Sha Allah-------
