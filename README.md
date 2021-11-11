@@ -13,7 +13,7 @@ After that, check the "Beginner Level 02.txt" file. Then, "Beginner Level 03.txt
 > You can check "CP_List.xlsx" file.
 
 ## >>> Some Good Online Judges to Practice and Compete for all:
-
+#
  1. https://www.codeforces.com
  2. https://www.codechef.com
  3. https://www.atcoder.jp
@@ -23,7 +23,7 @@ After that, check the "Beginner Level 02.txt" file. Then, "Beginner Level 03.txt
  7. https://www.hackerearth.com
 
 > *Note: If you are unable to code at the beginning level of a problem, see others' code. So, google it. But first try your best
-###
+##
 ## Now most important thing is "Time Complexity":
 > If you know how to code, then you must know how to calculate the time complexity of a code. So, check the "Big O Notation.txt" file. Whenever you code for a problem, you have to calculate the time complexity. It is one of the best ways to practice it.
 
@@ -33,5 +33,5 @@ After that, check the "Beginner Level 02.txt" file. Then, "Beginner Level 03.txt
 ## For Math Idea & Technique: 
 > You can check and read the "Math.pdf" file. Here, you can learn some math tricks. 
 
-
+###
 -------In Sha Allah-------
