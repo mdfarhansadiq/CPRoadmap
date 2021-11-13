@@ -32,6 +32,6 @@ After that, check the "Beginner Level 02.txt" file. Then, "Beginner Level 03.txt
 
 ## For Math Idea & Technique: 
 > You can check and read the "Math.pdf" file. Here, you can learn some math tricks. 
-
+###
 ###
 -------In Sha Allah-------
