@@ -10,7 +10,7 @@
 After that, check the "Beginner Level 02.txt" file. Then, "Beginner Level 03.txt". After completing the 3 steps, read and follow the instructions of "Competitive_Programming_Guide.pdf".**
 
 ## Resource List: 
-> You can check "CP_List.xlsx" file.
+> https://docs.google.com/spreadsheets/d/1C7j2CbguEN5cVEwsJQ6ZK9Yf8XUXOntP66mWA2n7Qh4/edit#gid=0
 
 ## >>> Some Good Online Judges to Practice and Compete for all:
 #
