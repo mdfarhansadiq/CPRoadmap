@@ -7,7 +7,7 @@
 
 ## Practice:
 **First if you are completely beginner in programming, check the "Beginner Level 01.txt" file.
-After that, check the "Beginner Level 02.txt" file. Then, "Beginner Level 03.txt". After completing the 3 steps, read and follow the instructions of "Competitive_Programming_Guide.pdf".**
+After that, check the "Beginner Level 02.txt" file. Then, "Beginner Level 03.txt". You will get some problem or question links in these .txt files which are mentioned earlier. After completing the 3 steps, read and follow the instructions of "Competitive_Programming_Guide.pdf".**
 
 ## Resource List: 
 > https://docs.google.com/spreadsheets/d/1C7j2CbguEN5cVEwsJQ6ZK9Yf8XUXOntP66mWA2n7Qh4/edit#gid=0
